@@ -49,3 +49,6 @@ Password policy - configure the password requirements for the IAM users.
 	Lowercase
 	Numbers
 	Non-alphanumeric characters
+
+7. Temporary delegation requests:
+Requests from Amazon products and AWS Partners wanting to temporarily access your account to perform actions on your behalf.
